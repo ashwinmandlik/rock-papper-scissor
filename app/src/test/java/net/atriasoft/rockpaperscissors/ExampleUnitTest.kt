@@ -1,4 +1,4 @@
-package net.thesimson.rockpaperscissors
+package net.atriasoft.rockpaperscissors
 
 import org.junit.Test
 

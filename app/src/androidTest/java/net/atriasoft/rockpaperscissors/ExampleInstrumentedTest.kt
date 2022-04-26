@@ -1,4 +1,4 @@
-package net.thesimson.rockpaperscissors
+package net.atriasoft.rockpaperscissors
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
